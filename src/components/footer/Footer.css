@@ -1,0 +1,25 @@
+.footerBimg{
+    background-color: #001319;
+}
+.footer{
+    background-color: #00212b;
+    width: 100%;
+}
+.footerVai{
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 4rem 1rem;    
+    color: white;
+}
+.footertext p{
+    font-size: 14px;
+    letter-spacing: .6px;
+    color: rgb(221, 221, 221);
+}
+.footertext h5{
+    font-size: 19px;
+    margin-bottom: .5rem;
+    font-weight: 600;
+    word-spacing: 1.8px;
+    letter-spacing: .7px;
+}

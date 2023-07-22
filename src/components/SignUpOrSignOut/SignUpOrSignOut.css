@@ -1,0 +1,44 @@
+.signup{
+    width: 470px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    padding: 2rem;
+    text-align: center;
+}
+.signout{
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    padding: 2rem  2rem 0;
+    text-align: center;
+}
+.form{
+    padding: 2.5rem 2rem;
+    border-radius: 8px;
+}
+.form2{
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+}
+label{
+    font-size: 16px;
+    letter-spacing: .7px;
+    font-weight: 500;
+}
+input{
+    padding: .5rem 0.7rem;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    margin: .2rem 0;
+}
+.form2 input{
+    padding: .4rem 0.7rem;
+}
+::-webkit-input-placeholder{
+    color: rgb(51, 51, 51) !important;
+    letter-spacing: .7px;
+}
